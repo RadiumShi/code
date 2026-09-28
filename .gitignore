@@ -1,0 +1,12 @@
+# C/C++ 编译产生的可执行文件
+*.exe
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# Jupyter 缓存
+.ipynb_checkpoints/
+
+# Conda / Python 环境
+.conda/
