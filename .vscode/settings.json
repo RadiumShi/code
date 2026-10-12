@@ -1,4 +1,10 @@
 {
     "python-envs.defaultEnvManager": "ms-python.python:conda",
-    "python-envs.defaultPackageManager": "ms-python.python:conda"
+    "python-envs.defaultPackageManager": "ms-python.python:conda",
+    "deepseek-copilot.baseUrl": "https://api.llm.ustc.edu.cn",
+     "deepseek-copilot.modelIdOverrides": {
+        "deepseek-v4-flash": "deepseek-v4-flash-ascend",
+        "deepseek-v4-pro": "deepseek-v4-pro"
+    }
+    
 }
